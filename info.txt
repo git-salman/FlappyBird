@@ -1,0 +1,1 @@
+This is a clone of the flappybird game, i wanted to learn LibGdx for which i created this project.
