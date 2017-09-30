@@ -1,1 +1,1 @@
-This is a clone of the flappybird game, i wanted to learn LibGdx for which i created this project.
+This is a clone of the flappybird game, I wanted to learn to create a 2D game, So i replicated the flappy birdgame which has almost the same features as the game i want to make.
